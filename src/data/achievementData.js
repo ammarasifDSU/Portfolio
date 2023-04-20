@@ -1,29 +1,32 @@
+import ibmLogo from "../assets/png/ibmLogo.png"
+import awsLogo from "../assets/png/awsLogo.png"
+
 export const achievementData = {
     bio : "Learning is a treasure that will follow its owner everywhere, but certifications and achievements are the keys that unlock the doors of opportunity",
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'IBM Full Stack Developer',
+            details : 'This Professional Certificate will equip you with key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer',
+            date : 'March 2023',
+            field : 'Full Stack Development',
+            image : ibmLogo
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'AWS Fundamentals: Building Serverless Applications',
+            details : 'his course will introduce you to Amazon Web Services (AWS) serverless architecture.',
+            date : 'May 2023',
+            field : 'Cloud Native',
+            image : awsLogo
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'AWS Fundamentals: Going Cloud – Native',
+            details : 'This course will introduce you to Amazon Web Services (AWS) core services and infrastructure.',
+            date : 'April 2020',
+            field : 'Cloud Native',
+            image : awsLogo
         }
 
     ]
