@@ -23,8 +23,7 @@
 }
 
 .achievement-body h4 {
-    font-size: 1.75rem;
-    font-family: 'Caveat', cursive;
+    font-size: 1.25rem;
     font-weight: 400;
 }
 
@@ -76,11 +75,11 @@
 }
 
 .achievecard-details2 h5 {
-   width: 50%;
+   width: 100%;
 }
 
 .achievecard-field {
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: row;
     align-items: center;

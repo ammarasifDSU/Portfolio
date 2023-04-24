@@ -2,14 +2,14 @@ export const experienceData = [
     {
         id: 1,
         company: 'E-Tools',
-        jobtitle: 'Software Engineer',
+        jobtitle: 'Senior Software Engineer',
         startYear: '2020',
         endYear: '2023'
     },
     {
         id: 2,
         company: 'Zenveus',
-        jobtitle: 'Frontend Developer',
+        jobtitle: 'Software Engineer',
         startYear: '2019',
         endYear: '2020'
     },
