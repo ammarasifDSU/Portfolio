@@ -65,7 +65,7 @@ export const projectsData = [
         projectName: 'Yum Burger',
         projectDesc: 'An Online Burger Cafe',
         tags: ['React', 'HTML', 'CSS','React Strap','Redux','Bootstrap','Responsive','SaaS'],
-        code: 'master--starlit-dragon-333100.netlify.app/',
+        code: 'https://master--starlit-dragon-333100.netlify.app/',
         image: seven
     },
     // {
