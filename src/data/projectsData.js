@@ -57,7 +57,7 @@ export const projectsData = [
         projectName: 'Consultify',
         projectDesc: 'Consultify',
         tags: ['React', 'HTML', 'CSS','React Strap','Redux','Bootstrap','Responsive','SaaS'],
-        code: 'https://643d819090d8530008c1a650--eclectic-fox-ce6a71.netlify.app/',
+        code: 'https://main--eclectic-fox-ce6a71.netlify.app/',
         image: ""
     },
     {
@@ -65,7 +65,7 @@ export const projectsData = [
         projectName: 'Yum Burger',
         projectDesc: 'An Online Burger Cafe',
         tags: ['React', 'HTML', 'CSS','React Strap','Redux','Bootstrap','Responsive','SaaS'],
-        code: 'https://64491b42b8353579832450db--starlit-dragon-333100.netlify.app/',
+        code: 'master--starlit-dragon-333100.netlify.app/',
         image: seven
     },
     // {
