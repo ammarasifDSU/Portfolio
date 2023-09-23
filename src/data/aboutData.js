@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who am I",
     description1: "I am an experienced IBM Certified Full Stack Developer with 5 years of expertise in producing middle-size and enterprise-level projects, ranging from single-page applications and MVPs to complex SaaS solutions, with a pixel-perfect approach. I am responsible, ambitious, and highly dedicated to my work, constantly seeking new and innovative solutions and ideas. My strongest skill lies in programming, complemented by my logical approach to problem-solving, and I always ensure that my codes are optimized, refactored, and thoroughly documented.",
-    description2: "My technology stack includes React JS, Node JS, MongoDB, Express JS, Redux, Material UI, Next JS, React Bootstrap, Context API, Reactstrap, and .Net. I am proficient in utilizing tools such as Jira, MS Office Suite, MS Projects, Azure DevOps, TFS, and ClickUp. Furthermore, my adeptness in utilizing both the Waterfall and Agile methodologies, specifically Scrum and Kanban, enhances my capabilities as a Senior Software Engineer.",
+    description2: "My technology stack includes React JS, Node JS, MongoDB, Express JS, Redux, Redux Toolkit, GraphQL, Material UI, Next JS, React Bootstrap, Context API, Reactstrap, and .Net. I am proficient in utilizing tools such as Jira, MS Office Suite, MS Projects, and ClickUp. Furthermore, my adeptness in utilizing both the Waterfall and Agile methodologies, specifically Scrum and Kanban, enhances my capabilities as a Senior Software Engineer.",
     image: 1
 }

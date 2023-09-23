@@ -292,6 +292,15 @@ function Contacts() {
                                 {contactsData.email}
                             </p>
                         </a>
+
+                        <div className='personal-details'>
+                            <div className={classes.detailsIcon}>
+                                <FiPhone />
+                            </div>
+                            <p style={{ color: theme.tertiary }}>
+                                {contactsData.phone}
+                            </p>
+                        </div>
                        
                         <div className='personal-details'>
                             <div className={classes.detailsIcon}>
